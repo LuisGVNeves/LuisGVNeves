@@ -1,6 +1,6 @@
 # Hello, Friend! 👋
 - 👩‍💻 Meu nome é Luis, tenho 20 anos e sou de São Caetano do Sul-SP.
-- 📖 Sou estudante de Desenvolvimento Full Stack Web na Blue Edteach
+- 📖 Sou estudante de Desenvolvimento Full Stack Web 
 
 
 ### 🛠️ Atualmente estou aprendendo sobre:
